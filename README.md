@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**rahim-22/rahim-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-H<h1 align="center">Hi there 👋, I'm Rahim</h1>
+<h1 align="center">Hi there 👋, I'm Rahim</h1>
 <h3 align="center">A passionate developer exploring the world of technology and coding.</h3>
 
 <p align="center">
@@ -51,14 +46,4 @@ H<h1 align="center">Hi there 👋, I'm Rahim</h1>
 ---
 
 ### 📱 Connect with me
-- **GitHub:** [rahim-22](https://github.com/rahim-22)ere are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **GitHub:** [rahim-22](https://github.com/rahim-22)
